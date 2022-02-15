@@ -5,8 +5,9 @@
 
 ## I'm a Full Stack Developer from France
 
-- 👀 I’m interested in web development and digital technologies
-- 🌱 I’m currently learning the following langages and tools: Python, NativeScript, ReactNative, TypeScript and Flutter (YES, I know it's quite too much... but I like learning!)
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning the following : Python, Flutter.
+- 🤔 What next ? Symfony, TypeScript and more...
 - 💞️ I’m currently open to work on any exciting project
 - 📫 You can reach me [here](https://www.jfpl.fr)
 
