@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=jfpl.fr&style=for-the-badge&url=https%3A%2F%2Fjfpl.fr)](https://jfpl.fr)
 
 
-## I'm a Full Stack Developer from France
+## I'm a Full-Stack Developer from France
 
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning the following : Python, Flutter.
@@ -13,7 +13,9 @@
 
 <br />
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<br/>
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <!---
 ### Languages and Tools:
