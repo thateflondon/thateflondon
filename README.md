@@ -8,7 +8,7 @@
 ## I'm a Full-Stack Developer
 
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning the following : Python, Flutter
+- 🧠 I’m currently learning the following : Python, Flutter
 - 🤔 What next ? Symfony, TypeScript and more...
 - 💻 I’m currently open to work on any exciting project
 - 📫 You can reach me [here](https://www.jfpl.fr)
