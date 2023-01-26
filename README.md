@@ -5,7 +5,7 @@
 <br/>
 
 
-## I'm a Full-Stack Developer
+## I'm a Front End Developer
 
 - 👀 I’m interested in web development
 - 🧠 I’m currently learning the following : Python, Flutter
