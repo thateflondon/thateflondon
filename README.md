@@ -8,8 +8,8 @@
 ## I'm a Front End Developer
 
 - 👀 I’m interested in web development
-- 🧠 I’m currently learning the following : Python, Flutter
-- ⏳ What next ? Symfony, TypeScript and more...
+- 🧠 I’m currently learning the following : React
+- ⏳ What next ? Master some backend stacks like PHP and more...
 - 💻 I’m currently open to work on any exciting project
 - 📫 You can reach me [here](https://www.jfpl.fr)
 
