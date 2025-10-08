@@ -5,7 +5,7 @@
 <br/>
 
 
-## I'm a Front End Developer
+## I'm a Frontend Developer
 
 - 👀 I’m interested in web development
 - 🧠 I’m currently learning the following : React
